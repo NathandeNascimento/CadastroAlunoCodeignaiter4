@@ -1,0 +1,60 @@
+CRITICAL - 2022-01-28 01:56:19 --> Undefined variable $msg
+#0 C:\xampp\htdocs\ci4\app\Views\Categorias.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(27): view('categorias', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 01:56:31 --> Undefined variable $msg
+#0 C:\xampp\htdocs\ci4\app\Views\Categorias.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(27): view('categorias', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 02:18:37 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(66): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('9')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 16:32:20 --> Invalid file: menu.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu.php')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('menu', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Ola.php(7): view('menu')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Ola->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ola))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-28 17:04:37 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\ci4\app\Views\Categorias.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('Categorias', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Ola.php(7): view('Categorias')
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Ola->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ola))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 17:04:51 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\ci4\app\Views\Categorias.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('Categorias', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Ola.php(7): view('Categorias')
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Ola->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ola))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

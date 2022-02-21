@@ -1,0 +1,420 @@
+CRITICAL - 2022-01-31 01:51:46 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 01:52:05 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 01:53:49 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 01:54:31 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:02:08 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 65)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:02:15 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 66)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:14:05 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:14:32 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:14:39 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 96)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:24:12 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 82)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:24:29 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:24:44 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 61)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:24:55 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:25:05 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 103)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:25:44 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:31:59 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:33:00 --> Undefined property: App\Controllers\Categorias::$auto
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:33:11 --> Undefined property: App\Controllers\Categorias::$__autoload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:33:18 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 02:33:58 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 92)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 16:29:39 --> syntax error, unexpected token ":"
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(245): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(223): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\HTT...')
+#2 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(180): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\HTT...')
+#3 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(154): CodeIgniter\HTTP\Files\FileCollection->createFileObject(Array)
+#4 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(55): CodeIgniter\HTTP\Files\FileCollection->populateFiles()
+#5 C:\xampp\htdocs\ci4\system\HTTP\IncomingRequest.php(750): CodeIgniter\HTTP\Files\FileCollection->getFile('foto')
+#6 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(69): CodeIgniter\HTTP\IncomingRequest->getFile('foto')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-31 16:31:19 --> syntax error, unexpected token ":"
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(245): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(223): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\HTT...')
+#2 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(180): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\HTT...')
+#3 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(154): CodeIgniter\HTTP\Files\FileCollection->createFileObject(Array)
+#4 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(55): CodeIgniter\HTTP\Files\FileCollection->populateFiles()
+#5 C:\xampp\htdocs\ci4\system\HTTP\IncomingRequest.php(750): CodeIgniter\HTTP\Files\FileCollection->getFile('foto')
+#6 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(69): CodeIgniter\HTTP\IncomingRequest->getFile('foto')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-31 16:31:52 --> syntax error, unexpected token ":"
+#0 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(245): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(223): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\HTT...')
+#2 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(180): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\HTT...')
+#3 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(154): CodeIgniter\HTTP\Files\FileCollection->createFileObject(Array)
+#4 C:\xampp\htdocs\ci4\system\HTTP\Files\FileCollection.php(55): CodeIgniter\HTTP\Files\FileCollection->populateFiles()
+#5 C:\xampp\htdocs\ci4\system\HTTP\IncomingRequest.php(750): CodeIgniter\HTTP\Files\FileCollection->getFile('foto')
+#6 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(69): CodeIgniter\HTTP\IncomingRequest->getFile('foto')
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-31 16:43:58 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 63)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 16:44:58 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 16:45:34 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:25:07 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(803): App\Controllers\Categorias->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:25:44 --> Call to undefined method CodeIgniter\Session\Session::library()
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(803): App\Controllers\Categorias->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-31 17:25:55 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:38:31 --> Undefined property: App\Controllers\Categorias::$session
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:40:15 --> Undefined property: App\Controllers\Categorias::$session
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:40:25 --> Undefined property: App\Controllers\Categorias::$session
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:42:19 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:43:59 --> Undefined property: App\Controllers\Categorias::$session
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:49:06 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 83)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:50:07 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 85)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:51:57 --> Undefined property: App\Controllers\Categorias::$set
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 83)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:57:57 --> Declaration of App\Controllers\Categorias::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger, CodeIgniter\HTTP\Files\UploadedFile $uploadedFile) must be compatible with App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-31 17:58:22 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(803): App\Controllers\Categorias->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 17:58:46 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(803): App\Controllers\Categorias->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:02:17 --> Too few arguments to function App\Controllers\Categorias::inserir(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-31 18:03:25 --> Too few arguments to function App\Controllers\Categorias::inserir(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-31 18:41:09 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:41:25 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:48:40 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:49:08 --> Array to string conversion
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:49:33 --> Undefined property: App\Controllers\Categorias::$set
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 18:55:16 --> Undefined property: App\Controllers\Categorias::$upload
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 88)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 19:49:52 --> allowed_types is not a valid rule.
+#0 C:\xampp\htdocs\ci4\system\Validation\Validation.php(299): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('allowed_types')
+#1 C:\xampp\htdocs\ci4\system\Validation\Validation.php(158): CodeIgniter\Validation\Validation->processRules('foto', 'foto', NULL, Array, Array)
+#2 C:\xampp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(75): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-31 19:51:58 --> allowed_types is not a valid rule.
+#0 C:\xampp\htdocs\ci4\system\Validation\Validation.php(299): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('allowed_types')
+#1 C:\xampp\htdocs\ci4\system\Validation\Validation.php(158): CodeIgniter\Validation\Validation->processRules('foto', 'foto', NULL, Array, Array)
+#2 C:\xampp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(75): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-31 19:52:12 --> allowed_types is not a valid rule.
+#0 C:\xampp\htdocs\ci4\system\Validation\Validation.php(299): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('allowed_types')
+#1 C:\xampp\htdocs\ci4\system\Validation\Validation.php(158): CodeIgniter\Validation\Validation->processRules('foto', 'foto', NULL, Array, Array)
+#2 C:\xampp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(75): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-31 20:10:21 --> allowed_types is not a valid rule.
+#0 C:\xampp\htdocs\ci4\system\Validation\Validation.php(299): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('allowed_types')
+#1 C:\xampp\htdocs\ci4\system\Validation\Validation.php(158): CodeIgniter\Validation\Validation->processRules('foto', 'foto', NULL, Array, Array)
+#2 C:\xampp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(74): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-31 20:26:18 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(803): App\Controllers\Categorias->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 20:41:20 --> syntax error, unexpected token "public"
+#0 C:\xampp\htdocs\ci4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-31 21:02:05 --> Too few arguments to function App\Controllers\Categorias::inserir(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-31 21:02:50 --> Too few arguments to function App\Controllers\Categorias::inserir(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-31 21:03:08 --> Undefined property: App\Controllers\Categorias::$load
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 87)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

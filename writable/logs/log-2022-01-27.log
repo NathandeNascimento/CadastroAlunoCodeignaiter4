@@ -1,0 +1,454 @@
+ERROR - 2022-01-27 01:35:05 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-01-27 01:35:05 --> Column 'nomecategoria' cannot be null
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:35:25 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-01-27 01:35:25 --> Column 'nomecategoria' cannot be null
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:41:27 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-01-27 01:41:27 --> Column 'nomecategoria' cannot be null
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:44:23 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-01-27 01:44:23 --> Column 'nomecategoria' cannot be null
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:45:06 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-01-27 01:45:06 --> Column 'nomecategoria' cannot be null
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:50:45 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:50:45 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:50:54 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:50:54 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:51:34 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:51:34 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:55:55 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:55:55 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:58:57 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:58:57 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 01:59:53 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 01:59:53 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-27 02:07:48 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-27 02:07:48 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1783): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(250): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(638): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(18): CodeIgniter\Model->insert()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-27 17:51:19 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 17:52:27 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 17:53:34 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 17:54:21 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 18:00:47 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('3')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 18:06:05 --> Invalid file: categorias form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(200): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias form...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(44): view('categorias form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-27 18:13:39 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('5')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:14:13 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('5')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:17:37 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('5')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:25:41 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:37:44 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:40:44 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(43): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 18:48:54 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('5')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:00:16 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:05:16 --> Undefined variable $id
+#0 C:\xampp\htdocs\ci4\app\Views\categorias_form.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias_form', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(53): view('categorias_form', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-27 19:05:21 --> Undefined variable $id
+#0 C:\xampp\htdocs\ci4\app\Views\categorias_form.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(212): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(215): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1119): CodeIgniter\View\View->render('categorias_form', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(53): view('categorias_form', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-27 19:05:37 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:09:58 --> Too few arguments to function App\Controllers\Categorias::editar(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-27 19:10:02 --> Too few arguments to function App\Controllers\Categorias::editar(), 0 passed in C:\xampp\htdocs\ci4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-27 19:10:12 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:19:08 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:20:23 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:20:29 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('3')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:32:12 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:36:36 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:36:52 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:40:54 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(46): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('7')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:44:04 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(47): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:46:49 --> Attempt to assign property "nomecategoria" on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-27 19:48:30 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(49): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 19:56:08 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(48): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 20:00:50 --> Call to a member function updade() on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-27 20:13:07 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(48): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 20:18:37 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(48): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 20:23:01 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(48): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-27 20:23:55 --> Undefined constant stdClass::editar
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-27 20:24:25 --> Call to undefined method App\Models\CategoriaModel::updade
+#0 C:\xampp\htdocs\ci4\app\Controllers\Categorias.php(48): CodeIgniter\Model->__call('updade', Array)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('8')
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
